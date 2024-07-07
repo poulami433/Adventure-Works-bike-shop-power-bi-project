@@ -6,4 +6,6 @@ The Power Bi Project is comprehensive analysis and visualization of the adventur
 1. Interactive Dashboards : Customized dashboards providing insightful metrics and KPIs relevant metrics to the bike shop's operations
 2. Data Models : Well-structured data models that integrate various data sources for a holistic view of the business.
 3. Analytical Report : Detailed reports focusing on sales performance , customer demographics ,inventory management and more.
-4. Visualizations : 
+4. Visualizations : A range of visualization including bar charts , line graphs , pic charts ,and maps offering intuitive data interpretations .
+
+  In this project I used Power Bi to visualize the sales and returns data of a hypothetical bike shop . Adventure 
