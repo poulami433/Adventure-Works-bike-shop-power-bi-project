@@ -1,4 +1,4 @@
-;::![1_T-P1WsT8iDNMz6Io4mVxLg](https://github.com/poulami433/Adventure-Works-bike-shop-power-bi-project/assets/171598364/8cb0f4de-077a-4109-bdbe-cfdc2d844a44)
+ ;::![1_T-P1WsT8iDNMz6Io4mVxLg](https://github.com/poulami433/Adventure-Works-bike-shop-power-bi-project/assets/171598364/8cb0f4de-077a-4109-bdbe-cfdc2d844a44)
 # OVERVIEW OF THE ADVENTURE WORKS BIKE SHOP POWER BI PROJECT :
 
 The Power Bi Project is comprehensive analysis and visualization of the adventure works bike shop data . It's desighned as a practical application of the skills taught in the "Power Bi Desktop 2024" , course by @Maven Analytics  . Key features of this project include :
@@ -8,4 +8,6 @@ The Power Bi Project is comprehensive analysis and visualization of the adventur
 3. Analytical Report : Detailed reports focusing on sales performance , customer demographics ,inventory management and more.
 4. Visualizations : A range of visualization including bar charts , line graphs , pic charts ,and maps offering intuitive data interpretations .
 
-  In this project I used Power Bi to visualize the sales and returns data of a hypothetical bike shop . Adventure 
+  In this project I used Power Bi to visualize the sales and returns data of a hypothetical bike shop . Adventure Works . Using techniques learned throughout the course . I visualized global data across time periods ,products and customers . 
+
+  I decided to use this project purely as a method to learn the visualization and amalysis techniques , choosing not to actually 
