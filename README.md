@@ -30,5 +30,8 @@ The Power Bi Project is comprehensive analysis and visualization of the adventur
 
  # 1) Executive Dashboard: 
          A high level summary of this data set 
+         ![Screenshot (1)](https://github.com/poulami433/Adventure-Works-bike-shop-power-bi-project/assets/171598364/e8a6d0ca-d8c1-4c15-a433-664dd79decd3)
+         
+
          
  
