@@ -31,6 +31,12 @@ The Power Bi Project is comprehensive analysis and visualization of the adventur
  # 1) Executive Dashboard: 
          A high level summary of this data set 
          ![Screenshot (1)](https://github.com/poulami433/Adventure-Works-bike-shop-power-bi-project/assets/171598364/e8a6d0ca-d8c1-4c15-a433-664dd79decd3)
+ # 2) Highlights on this dashboard: 
+         After inserting the table showing the top 10 products and the associated orders, revenue and return rate, I was able to incorporate some drill through functionality. This means that if you click on a specific product you can go to a separate dashboard (The Product Detail Dashboard) and view more details on just this specific product. I think this is a great little trick which adds a lot of value to dashboards. 
+While the cards at the bottom left showing monthly revenue, orders and returns are useful on their own, the addition of conditional formatting based off of whether or not they have reached their monthly targets is a huge value add. Further, these targets are dynamic as they are based on the previous months’ revenue/orders/returns total.
+The filter button at the top left brings up a Slicer Panel which allow users to filter the entire page by continent and year, which allows for a whole new angle of analysis. 
+
+
          
 
          
