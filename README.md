@@ -32,9 +32,41 @@ The Power Bi Project is comprehensive analysis and visualization of the adventur
          A high level summary of this data set 
          ![Screenshot (1)](https://github.com/poulami433/Adventure-Works-bike-shop-power-bi-project/assets/171598364/e8a6d0ca-d8c1-4c15-a433-664dd79decd3)
  # 2) Highlights on this dashboard: 
-         After inserting the table showing the top 10 products and the associated orders, revenue and return rate, I was able to incorporate some drill through functionality. This means that if you click on a specific product you can go to a separate dashboard (The Product Detail Dashboard) and view more details on just this specific product. I think this is a great little trick which adds a lot of value to dashboards. 
+  After inserting the table showing the top 10 products and the associated orders, revenue and return rate, I was able to incorporate some drill through functionality. This means that if you click on a specific product you can go to a separate dashboard (The Product Detail Dashboard) and view more details on just this specific product. I think this is a great little trick which adds a lot of value to dashboards. 
 While the cards at the bottom left showing monthly revenue, orders and returns are useful on their own, the addition of conditional formatting based off of whether or not they have reached their monthly targets is a huge value add. Further, these targets are dynamic as they are based on the previous months’ revenue/orders/returns total.
-The filter button at the top left brings up a Slicer Panel which allow users to filter the entire page by continent and year, which allows for a whole new angle of analysis. 
+The filter button at the top left brings up a Slicer Panel which allow users to filter the entire page by continent and year, which allows for a whole new angle of analysis.
+
+2) Map – A nice simple visualisation to learn about using geospatial data & tooltips.
+
+3) Product Details – All the product specific KPIs.
+
+Highlights on this dashboard:
+
+3.1) As mentioned above, this page is a drill through from the executive dashboard, so whichever product you look at on that dashboard will be shown in more detail here. 
+
+3.2) One of my favourite features learned throughout this process – parameters! Using numerical field parameters to enable users to run their own scenario analysis in real time is an unbelievable feature for analysis. Couldn’t believe how easy it was to build in and use.
+
+3.3) A very useful technique shown here is the gauges along the top of the dashboard which are a great way to show KPI performance against targets.
+
+4)   Customer Details – All the customer specific KPIs.
+
+This dashboard is pretty similar to the Product Details dashboard above, but it contains details of specific customers rather than products. 
+
+4.1) The line chart here has chart-specific filters on it, which means that the chart currently shows the total number of customers over time but can be changed to rather show the revenue per customer over time. This is a great way to enable users to view more information without overcomplicating the dashboard. 
+
+4.2) I also went a bit further here, adding in a little tip I learned from watching Guy in a Cube’s videos, an information panel to make user experience a bit more intuitive.
+
+5) Decomposition Tree
+
+This was a last minute add on to the project and I could definitely do with some further exploration of these visualisations but essentially, they allow users to analyse data themselves, across categories and subcategories. 
+
+As can be seen above from the above example, this can be very helpful when analysing things like a breakdown of total revenue, to see which products drive revenue and which category or subcategory they come from. 
+
+A Final Word
+
+Thank you so much for making it this far and reading my data analysis project! Any feedback you may have would be greatly appreciated - you can reach me on LinkedIn or by email at sarkarpoulami941@gmail.com
+
+
 
 
          
