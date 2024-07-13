@@ -29,16 +29,21 @@ The Power Bi Project is comprehensive analysis and visualization of the adventur
  After learning DAX came the exciting part of actually building some dashboards. I built 4 dashboards and a decomposition tree, which are pretty in depth and will naturally be better viewed in Power BI Service where the functionality all works, but I thought I’d include some screenshots to show my favourite features below.
 
  # 1) Executive Dashboard: 
-         A high level summary of this data set 
-         ![Screenshot (1)](https://github.com/poulami433/Adventure-Works-bike-shop-power-bi-project/assets/171598364/e8a6d0ca-d8c1-4c15-a433-664dd79decd3)
- # 2) Highlights on this dashboard: 
+   A high level summary of this data set 
+     ![Screenshot (1)](https://github.com/poulami433/Adventure-Works-bike-shop-power-bi-project/assets/171598364/e8a6d0ca-d8c1-4c15-a433-664dd79decd3)
+   Highlights on this dashboard: 
   After inserting the table showing the top 10 products and the associated orders, revenue and return rate, I was able to incorporate some drill through functionality. This means that if you click on a specific product you can go to a separate dashboard (The Product Detail Dashboard) and view more details on just this specific product. I think this is a great little trick which adds a lot of value to dashboards. 
 While the cards at the bottom left showing monthly revenue, orders and returns are useful on their own, the addition of conditional formatting based off of whether or not they have reached their monthly targets is a huge value add. Further, these targets are dynamic as they are based on the previous months’ revenue/orders/returns total.
 The filter button at the top left brings up a Slicer Panel which allow users to filter the entire page by continent and year, which allows for a whole new angle of analysis.
+![Screenshot (8)](https://github.com/user-attachments/assets/fa6f1ed6-47b0-49d9-8b2e-51597cf36b84)
 
-2) Map – A nice simple visualisation to learn about using geospatial data & tooltips.
+# 2) Map – A nice simple visualisation to learn about using geospatial data & tooltips.
+   ![Screenshot (2)](https://github.com/user-attachments/assets/ca326e58-7d26-4e65-a86b-8350cd187bcf)
 
-3) Product Details – All the product specific KPIs.
+
+# 3) Product Details – All the product specific KPIs.
+![Screenshot (3)](https://github.com/user-attachments/assets/36481819-a14a-420f-982d-b92114b037b2)
+
 
 Highlights on this dashboard:
 
@@ -48,7 +53,9 @@ Highlights on this dashboard:
 
 3.3) A very useful technique shown here is the gauges along the top of the dashboard which are a great way to show KPI performance against targets.
 
-4)   Customer Details – All the customer specific KPIs.
+ # 4)   Customer Details – All the customer specific KPIs.
+
+![Screenshot (4)](https://github.com/user-attachments/assets/489978fe-90e4-43c8-b151-d635628fd251)
 
 This dashboard is pretty similar to the Product Details dashboard above, but it contains details of specific customers rather than products. 
 
@@ -56,7 +63,11 @@ This dashboard is pretty similar to the Product Details dashboard above, but it 
 
 4.2) I also went a bit further here, adding in a little tip I learned from watching Guy in a Cube’s videos, an information panel to make user experience a bit more intuitive.
 
-5) Decomposition Tree
+
+# 5) Decomposition Tree
+
+   ![Screenshot (6)](https://github.com/user-attachments/assets/da545dfe-2f64-4de9-8a1b-35504fd29951)
+
 
 This was a last minute add on to the project and I could definitely do with some further exploration of these visualisations but essentially, they allow users to analyse data themselves, across categories and subcategories. 
 
