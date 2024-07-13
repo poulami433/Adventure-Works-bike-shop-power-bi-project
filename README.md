@@ -73,7 +73,7 @@ This was a last minute add on to the project and I could definitely do with some
 
 As can be seen above from the above example, this can be very helpful when analysing things like a breakdown of total revenue, to see which products drive revenue and which category or subcategory they come from. 
 
-A Final Word
+# A Final Word
 
 Thank you so much for making it this far and reading my data analysis project! Any feedback you may have would be greatly appreciated - you can reach me on LinkedIn or by email at sarkarpoulami941@gmail.com
 
